@@ -1,0 +1,36 @@
+15-Feb-2025 02:29:34.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/11.0.2
+15-Feb-2025 02:29:34.086 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Dec 5 2024 15:19:37 UTC
+15-Feb-2025 02:29:34.087 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  11.0.2.0
+15-Feb-2025 02:29:34.087 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+15-Feb-2025 02:29:34.087 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+15-Feb-2025 02:29:34.088 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+15-Feb-2025 02:29:34.088 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\alibe\.jdks\openjdk-23.0.1
+15-Feb-2025 02:29:34.088 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            23.0.1+11-39
+15-Feb-2025 02:29:34.088 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+15-Feb-2025 02:29:34.089 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\alibe\Downloads\resttexample\resttexample
+15-Feb-2025 02:29:34.089 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\alibe\Downloads\apache-tomcat-11.0.2-windows-x64\apache-tomcat-11.0.2
+15-Feb-2025 02:29:34.106 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+15-Feb-2025 02:29:34.107 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+15-Feb-2025 02:29:34.107 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+15-Feb-2025 02:29:34.107 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+15-Feb-2025 02:29:34.107 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Feb-2025 02:29:34.107 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\alibe\Downloads\apache-tomcat-11.0.2-windows-x64\apache-tomcat-11.0.2
+15-Feb-2025 02:29:34.107 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\alibe\Downloads\resttexample\resttexample
+15-Feb-2025 02:29:34.107 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\alibe\Downloads\resttexample\resttexample\temp
+15-Feb-2025 02:29:34.108 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\alibe\Downloads\resttexample\resttexample\conf\logging.properties
+15-Feb-2025 02:29:34.108 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Feb-2025 02:29:34.108 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.1\lib\idea_rt.jar=54216:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.1\bin
+15-Feb-2025 02:29:34.108 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Feb-2025 02:29:34.109 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+15-Feb-2025 02:29:34.109 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+15-Feb-2025 02:29:34.506 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+15-Feb-2025 02:29:34.513 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+15-Feb-2025 02:29:34.996 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8080"]
+15-Feb-2025 02:29:35.019 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1409] milliseconds
+15-Feb-2025 02:29:35.116 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Feb-2025 02:29:35.117 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/11.0.2]
+15-Feb-2025 02:29:35.133 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\alibe\Downloads\resttexample\resttexample\conf\Catalina\localhost\ROOT.xml]
+15-Feb-2025 02:29:38.767 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Feb-2025 02:29:44.097 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\alibe\Downloads\resttexample\resttexample\conf\Catalina\localhost\ROOT.xml] has finished in [8 959] ms
+15-Feb-2025 02:29:44.102 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Feb-2025 02:29:44.133 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [9113] milliseconds
